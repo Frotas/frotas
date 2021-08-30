@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="./style.css">
 
 <h2> 👋 Olá, sou o Guilherme! </h2>
 
@@ -14,7 +13,7 @@
   <h3> Sobre mim </h3>
   <p>
     Possuo formação técnica em Análise e Desenvolvimento
-    de Sistemas pela Centro Paula Souza (<a href="https://cps.sp.gov.br">CPS</a>)
+    de Sistemas pela Centro Paula Souza (<a href="https://www.cps.sp.gov.br">CPS</a>)
     e estou fazendo especialização em Desenvolvimento Web Front End.
   </p>
 </section>
