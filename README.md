@@ -1,14 +1,6 @@
 
 <h2> 👋 Olá, sou o Guilherme! </h2>
 
-<!--
-<ul>
-  <li> 🔭 Estou trabalhando com Front End </li>
-  <li> 🌱 Estou estudando Web Design e JavaScript </li>
-  <li> 📫 How to reach me: guilherme.frotas19@hotmail.com </li>
-  <li> 😄 Pronouns: ele/dele </li>
-</ul>
--->
 <section id="aboutMe">
   <h3> Sobre mim </h3>
   <p>
@@ -17,6 +9,15 @@
     e estou fazendo especialização em Desenvolvimento Web Front End.
   </p>
 </section>
+
+<ul>
+  <li> 💼 Trabalho com Desenvolvimento Web Front End </li>
+  <li> 📚 Estou estudando Web Design e JavaScript </li>
+  <li> 📫 How to reach me: 
+    <a href="https://www.linkedin.com/in/guilhermeaugustofrotassales"> LinkedIn </a>
+  </li>
+  <li> 😄 Pronouns: ele/dele </li>
+</ul>
 
 ##
 
@@ -34,11 +35,3 @@
  <img align="center" heigth="30px" width="40px">
 </section>
 </a>
-
-
-
-
-
-
-
-
