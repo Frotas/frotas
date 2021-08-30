@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://github.com/frotas/frotas/style.css">
+<link rel="stylesheet" href="./style.css">
 
 <h2> 👋 Olá, sou o Guilherme! </h2>
 
