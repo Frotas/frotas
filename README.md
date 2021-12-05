@@ -23,7 +23,7 @@
   <h3> Meios de Contato: </h3>
   
   <a href="https://www.linkedin.com/in/guilhermeafsales/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" hitgth="30px" width="30px" alt="linkdIn"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" hitgth="30px" width="30px" alt="LinkedIn"/>
   </a>
   <a href="https://app.rocketseat.com.br/me/guilherme-augusto-07341">
     <img src="/assets/rocketseat_icon.jpg" hitgth="30px" width="30px" alt="Rocketseat"/>
