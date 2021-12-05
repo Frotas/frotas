@@ -3,37 +3,51 @@
 
 <section>
   <h3> Sobre mim </h3>
-  <p> Sou uma pessoa apaixonada por tecnologia e nas inovações que ela traz no dia a dia,
-      busco me atualizar diariamente sobre as novidades do mercado e de novas metodologias de
-      desenvolvimento.
+  <p style="text-align=justify">
+    Como pessoa não gosto cometer erros, mas como é impossível procuro aprender com eles, não sou socialmente ativo, pois me considero introspectivo, deste modo  não sei
+    iniciar uma conversa sem me enrolar, até me sentir seguro e confiante, assim o diálogo flui naturalmente. Sou uma pessoa que se adapta e se molda de acordo o ambiente,
+    busco aprimorar minhas softs skills durante meu processo de adaptação.
   </p>
-  <p>
-      Como pessoa não sou perfeito, porém busco me adaptar e adequar ao ambiente
-      profissional e ao convívio profissional, sendo que utilizo do ambiente para aperfeiçoar as
-      habilidades sociais e profissionais.
+  <p style="text-align=justify">
+    Como profissional, busco aprender, aperfeiçoar e evoluir junto a empresa, sou obstinado e competente, sempre procuro ajudar e auxiliar o próximo mesmo eu não sabendo,
+    iremos em conjunto aprender, não paro de estudar, pois, é uma área de constante evolução e atualização desse modo, continuo aperfeiçoando minhas hards skills.
+  </p>
+  <p style="text-align=justify">
+    Trabalhei no Tribunal de Justiça de São Paulo como estagiario de nivel médio durante dois anos, com esse estágio desenvolvi minhas soft skills e algumas hard skills.
   </p>
 </section>
 
-<ul>
-  <li> 💼 Atualmente estou em busca do meu primeiro emprego. </li>
-  <li> 📚 Estou aprofundando nos estudos de Front-End </li>
-  <li> 📫 Formas de contato: 
-    <a href="https://www.linkedin.com/in/guilhermeaugustofrotassales"> LinkedIn </a>
-  </li>
-  <li> 😄 Pronomes: ele/dele </li>
-</ul>
+------------------------------------------------------
 
-##
+<section>
+  <h3> Meios de Contato: </h3>
+  
+  <a href="https://www.linkedin.com/in/guilhermeafsales/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" hitgth="30px" width="30px" alt="linkdIn"/>
+  </a>
+  <a href="https://app.rocketseat.com.br/me/guilherme-augusto-07341">
+    <img src="/assets/rocketseat_icon.jpg" hitgth="30px" width="30px" alt="Rocketseat"/>
+  </a>
+<!--   <a href=""><img src="" /></a> -->
+</section>
+
+------------------------------------------------------
 
 <section>
   <a href="https://github.com/frotas">
-   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=frotas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img align="top" height="108em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotas&layout=compact&langs_count=7&theme=dracula"/>
-<br/><br/>
-   <img align="center" heigth="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-   <img align="center" heigth="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-   <img align="center" heigth="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-   <img align="center" heigth="30px" width="40px">
+     <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=frotas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotas&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</section>
+  
+------------------------------------------------------
+  
+<section>
+  <a href="https://github.com/frotas">
+     <img align="center" heigth="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+     <img align="center" heigth="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+     <img align="center" heigth="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+     <img align="center" heigth="30px" width="40px">
   </a>
 </section>
 
