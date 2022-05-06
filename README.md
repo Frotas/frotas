@@ -32,7 +32,7 @@
 <section>
   <h3> Meios de Contato: </h3>
   
-  <a href="https://www.linkedin.com/in/guilhermeafsales/">
+  <a href="www.linkedin.com/in/gafs-8d75c9a7047a26154703fea2045bca3el">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" hitgth="30px" width="30px" alt="LinkedIn"/>
   </a>
   <a href="https://app.rocketseat.com.br/me/guilherme-augusto-07341">
