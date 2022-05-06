@@ -4,9 +4,19 @@
 <section>
   <h3> Sobre mim </h3>
   <p style="text-align=justify">
-    Como pessoa não gosto cometer erros, mas como é impossível procuro aprender com eles, não sou socialmente ativo, pois me considero introspectivo, deste modo  não sei
-    iniciar uma conversa sem me enrolar, até me sentir seguro e confiante, assim o diálogo flui naturalmente. Sou uma pessoa que se adapta e se molda de acordo o ambiente,
-    busco aprimorar minhas softs skills durante meu processo de adaptação.
+    Sou desenvolvedor Front-End Júnior,
+    não possuo experiência na área. 
+    Participei no desenvolvimento de um 
+    projeto social durante o Hackathon da 
+    ReCode Pro, que abrange a ODS4 dos 
+    objetivos mundiais da ONU, auxilie 
+    na prototipagem abstrata (Escopo) e 
+    prática (criando o Produto Mínimo Viável 
+    no AppInventor). Cursei Desenvolvimento de 
+    Sistemas na Escola Técnica de Vila Formosa da Centro 
+    Paula Souza e estou cursando Desenvolvimento Full-Stack
+    disponibilizado pela ReCode Pro, através de um processo seletivo. 
+    Possuo conhecimento prático e teórico obtidos no curso técnico e no curso full-stack.
   </p>
   <p style="text-align=justify">
     Como profissional, busco aprender, aperfeiçoar e evoluir junto a empresa, sou obstinado e competente, sempre procuro ajudar e auxiliar o próximo mesmo eu não sabendo,
