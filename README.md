@@ -3,27 +3,29 @@
 
 <section>
   <h3> Sobre mim </h3>
-  <p style="text-align=justify">
+  <p style="text-align:justify">
     Sou desenvolvedor Front-End Júnior,
     não possuo experiência na área. 
-    Participei no desenvolvimento de um 
-    projeto social durante o Hackathon da 
-    ReCode Pro, que abrange a ODS4 dos 
-    objetivos mundiais da ONU, auxilie 
-    na prototipagem abstrata (Escopo) e 
-    prática (criando o Produto Mínimo Viável 
-    no AppInventor). Cursei Desenvolvimento de 
+    Cursei Desenvolvimento de 
     Sistemas na Escola Técnica de Vila Formosa da Centro 
     Paula Souza e estou cursando Desenvolvimento Full-Stack
     disponibilizado pela ReCode Pro, através de um processo seletivo. 
     Possuo conhecimento prático e teórico obtidos no curso técnico e no curso full-stack.
   </p>
-  <p style="text-align=justify">
+ <!-- <p style="text-align:justify">
     Como profissional, busco aprender, aperfeiçoar e evoluir junto a empresa, sou obstinado e competente, sempre procuro ajudar e auxiliar o próximo mesmo eu não sabendo,
     iremos em conjunto aprender, não paro de estudar, pois, é uma área de constante evolução e atualização desse modo, continuo aperfeiçoando minhas hards skills.
+  </p> -->
+  <p style="text-align:justify">
+    Trabalhei no Tribunal de Justiça de São Paulo como estagiario(Jovem Aprendiz) de nivel médio durante dois anos, com esse estágio desenvolvi e evoluí algumas
+    soft skills e hard skills no meio jurídico administrativo.
   </p>
-  <p style="text-align=justify">
-    Trabalhei no Tribunal de Justiça de São Paulo como estagiario de nivel médio durante dois anos, com esse estágio desenvolvi minhas soft skills e algumas hard skills.
+  <p style="text-align:justify">
+   Sou uma pessoa tímida, porém sei me comunicar
+   quando necessário, tenho ambições sendo elas,
+   atuar na área acedemica/científica e trabalhar
+   como Perito Forense, sempre estou atrás de 
+   novos desafios.
   </p>
 </section>
 
